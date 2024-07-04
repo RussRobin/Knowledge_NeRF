@@ -2,8 +2,6 @@
 This is the official implementation for Knowledge NeRF: Few-shot Novel View Synthesis for Dynamic Articulated Objects.
 [[arXiv](http://arxiv.org/abs/2404.00674)]
 
-(Paper under review).
-
 ## Install
 
 Please refer to [NeRF-pytorch](https://github.com/yenchenlin/nerf-pytorch).
