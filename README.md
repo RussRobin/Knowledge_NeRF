@@ -8,8 +8,7 @@ Please refer to [NeRF-pytorch](https://github.com/yenchenlin/nerf-pytorch).
 
 ## Datasets
 
-We propose a new dynamic dataset consisting of synthetic and real-world articulated objects, consisting of 2 spaces: original space and deformed space.
-(Available soon).
+We propose a new dynamic dataset consisting of synthetic and real-world articulated objects, consisting of 2 spaces: original space and deformed space. If you are interested in our dataset, please reach out to `russ000robin@gmail.com`.
 
 [NeRF Synthetic Dataset](https://arxiv.org/abs/2003.08934) and
 [Shiny Blender Dataset](https://arxiv.org/abs/2112.03907) 
