@@ -29,7 +29,7 @@ For any questions, please feel free to reach out to start an issue in this repo.
 ```
 @article{cai2024knowledge,
   title={Knowledge NeRF: Few-shot Novel View Synthesis for Dynamic Articulated Objects},
-  author={Cai, Wenxiao and Lei{\i}nst, Xinyue and He, Xinyu and Chen, Junming Leo and Wang, Yangang},
+  author={Cai, Wenxiao and Lei, Xinyue and He, Xinyu and Chen, Junming Leo and Wang, Yangang},
   journal={arXiv preprint arXiv:2404.00674},
   year={2024}
 }
