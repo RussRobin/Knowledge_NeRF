@@ -1,6 +1,8 @@
 # Knowledge_NeRF
-This is the official implementation for Knowledge NeRF: Few-shot Novel View Synthesis for Dynamic Articulated Objects.
+This is the official implementation for Knowledge NeRF: Few-shot Novel View Synthesis for Dynamic Articulated Objects (Journal of Visual Communication and Image Representation, 2025).
+
 [[arXiv](http://arxiv.org/abs/2404.00674)]
+[JVCI version available soon]
 
 ## Install
 
