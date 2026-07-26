@@ -29,10 +29,14 @@ Please `bash pipeline.sh` to run Knowledge NeRF.
 For any questions, please feel free to reach out to start an issue in this repo.
 
 ```
-@article{cai2024knowledge,
-  title={Knowledge NeRF: Few-shot Novel View Synthesis for Dynamic Articulated Objects},
-  author={Cai, Wenxiao and Lei, Xinyue and He, Xinyu and Chen, Junming Leo and Wang, Yangang},
-  journal={arXiv preprint arXiv:2404.00674},
-  year={2024}
-}
+@article{CAI2025104586,
+title = {Knowledge NeRF: Few-shot novel view synthesis for dynamic articulated objects},
+journal = {Journal of Visual Communication and Image Representation},
+volume = {112},
+pages = {104586},
+year = {2025},
+issn = {1047-3203},
+doi = {https://doi.org/10.1016/j.jvcir.2025.104586},
+url = {https://www.sciencedirect.com/science/article/pii/S1047320325002007},
+author = {Wenxiao Cai and Xinyue Lei and Xinyu He and Junming Leo Chen and Yuzhi Hao and Yangang Wang},
 ```
